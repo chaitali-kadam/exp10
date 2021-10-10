@@ -1,7 +1,7 @@
 # PYthon program to add 2 numbers
 
 number1 = 30
-number2 = 15
+number2 = 25
 
 #Operation to add two numbers
 
